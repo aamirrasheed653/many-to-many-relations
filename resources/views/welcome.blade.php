@@ -10,7 +10,7 @@
 
 <body>
 
-    <id id= "example"></id>
+    <id id= "main"></id>
 
     @viteReactRefresh
     @vite('resources/js/app.js')
